@@ -1,0 +1,14 @@
+bacterial_spot
+black_rot
+northern_leaf_blight
+powdery_mildew
+leaf_scorch
+target_spot
+tomato_mosaic_virus
+tomato_yellow_leaf_curl_virus
+late_blight
+early_blight
+cedar_apple_rust
+leaf_mold
+septoria_leaf_spot
+healthy
