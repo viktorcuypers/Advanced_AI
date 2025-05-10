@@ -10,10 +10,18 @@ pip install -r requirements.txt
 
 ## run scripts
 
-### train script for simpel preiction
+### train scripts
 
-python .\train\train_simpel.py
+simpel: python .\train\train_simpel.py
 
-### simpel predction script using model of simpel train
+#
+
+multiclass: python .\train\train.py
+
+### predction scripts using models
 
 python .\predict\predict_simpel.py
+
+#
+
+python .\predict\predict_multiclass.py
