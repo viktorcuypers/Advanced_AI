@@ -4,10 +4,6 @@
 
 pip install -r requirements.txt
 
-## start vertual enviroment
-
-.\plantenv\Scripts\activate
-
 ## run scripts
 
 ### train scripts
